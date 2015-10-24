@@ -3,4 +3,4 @@ apache/httpd server side DDOS exploit
 
 Priv8 server side exploit - TANGO SERVERS [ SERVER SIDE DDOS ]
 
-<h1>HOW TO USE : https://youtu.be/JDFPc0DYNig </h1>
+<h1>HOW TO USE IT : https://youtu.be/JDFPc0DYNig </h1>
